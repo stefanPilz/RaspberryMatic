@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant RaspberryMatic Add-on",
-  "url": "https://github.com/jens-maus/RaspberryMatic/",
+  "name": "Home Assistant RaspberryMatic Add-on with HAP-Homematic",
+  "url": "https://github.com/stefanPilz/RaspberryMatic/",
   "maintainer": "RaspberryMatic Team <mail@raspberrymatic.de>"
 }
